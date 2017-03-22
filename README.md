@@ -1,5 +1,7 @@
 # VolleyBecomesEasy
 
+<img src="/ic_launcher.png"/>
+
 ## How to use
 If you want use this library, you only need to add the gradle dependency, you have to add these lines in your build.gradle file:
 
