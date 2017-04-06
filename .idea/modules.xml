@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NetworkManager.iml" filepath="$PROJECT_DIR$/NetworkManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/VolleyBecomesEasy.iml" filepath="$PROJECT_DIR$/.idea/modules/VolleyBecomesEasy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/network_manager/network_manager.iml" filepath="$PROJECT_DIR$/.idea/modules/network_manager/network_manager.iml" />
-      <module fileurl="file://$PROJECT_DIR$/network_manager/network_manager.iml" filepath="$PROJECT_DIR$/network_manager/network_manager.iml" />
     </modules>
   </component>
 </project>
